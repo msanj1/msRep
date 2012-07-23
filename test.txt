@@ -7,10 +7,9 @@ dasdsadasda
 
 <<<<<<< HEAD
 this is me trying to push something!!
-
-new stuff
 =======
-this is me trying to push something!
+new stuff
+
 =======
 >>>>>>> parent of dbcd0ee... test5
 
@@ -18,3 +17,5 @@ asdas
 
 >>>>>>> s
 I changed this
+
+42
