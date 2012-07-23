@@ -3,10 +3,8 @@ s
 
 added a new line
 
-
-nslog();
-
-
 dasdsadasda
 
-this is me trying to push something!
+this is me trying to push something!!
+
+new stuff
