@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< HEAD Wrote by MS
 
+=======
+<<<<<<< BODY
+>>>>>>> ba
 s
 
 added a new line
